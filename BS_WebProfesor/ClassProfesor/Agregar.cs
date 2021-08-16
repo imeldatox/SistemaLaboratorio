@@ -23,5 +23,6 @@ namespace ClassProfesor
         public string concubinato = "4";
         public string ProcesoSepracion = "5";
         public string Viudo = "6";
+     
     }
 }
