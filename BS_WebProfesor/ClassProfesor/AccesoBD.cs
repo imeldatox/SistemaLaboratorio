@@ -16,9 +16,10 @@ namespace ClassProfesor
 
         public AccesoBD()
         {
-            string CadCon = (@"Data Source = GRM\SQLEXPRESS; Initial Catalog = BD_Inventario; Integrated Security = false; user = Imelda; pwd = Lord012097");
+			string CadCon = (@"Data Source = GRM\SQLEXPRESS; Initial Catalog = BD_Inventario; Integrated Security = false; user = Imelda; pwd = Lord012097");
             CONEXION = new SqlConnection(CadCon);
             COMANDO.Connection = CONEXION;
+            
         }
 
         public bool ABRIR()

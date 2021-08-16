@@ -74,16 +74,16 @@ namespace ClassProfesor
             BD.CERRAR();
         }
 
-        public void BusquedaInfoProfe(string NOM)
+        
+
+        public void BusquedaMateriasProfe(string Nom, string materi)
+        {
+            BD.ABRIR()public void BusquedaInfoProfe(string NOM)
         {
             BD.ABRIR();
             BD.BusquedaInfoProfesor(NOM);
             BD.CERRAR();
-        }
-
-        public void BusquedaMateriasProfe(string Nom, string materi)
-        {
-            BD.ABRIR();
+        };
             BD.BusquedaMateriasProfesor(Nom, materi);
             BD.CERRAR();
         }
