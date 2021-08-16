@@ -1,0 +1,6 @@
+C:\Users\Guadalupe Romero\Desktop\BS_WebProfesor\BS_WebProfesor\ClassProfesor\bin\Debug\ClassProfesor.dll
+C:\Users\Guadalupe Romero\Desktop\BS_WebProfesor\BS_WebProfesor\ClassProfesor\bin\Debug\ClassProfesor.pdb
+C:\Users\Guadalupe Romero\Desktop\BS_WebProfesor\BS_WebProfesor\ClassProfesor\obj\Debug\ClassProfesor.csproj.AssemblyReference.cache
+C:\Users\Guadalupe Romero\Desktop\BS_WebProfesor\BS_WebProfesor\ClassProfesor\obj\Debug\ClassProfesor.csproj.CoreCompileInputs.cache
+C:\Users\Guadalupe Romero\Desktop\BS_WebProfesor\BS_WebProfesor\ClassProfesor\obj\Debug\ClassProfesor.dll
+C:\Users\Guadalupe Romero\Desktop\BS_WebProfesor\BS_WebProfesor\ClassProfesor\obj\Debug\ClassProfesor.pdb
