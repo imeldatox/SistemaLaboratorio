@@ -25,7 +25,7 @@ namespace WebProfe
                 if (tabla.Rows.Count == 0)
                 {
                     TextBox4.Visible = true;
-                    TextBox4.Text = "No existe el usuario" + "Sistema Login";//, Response.Write.OK, MessageBoxIcon.Error);   
+                    TextBox4.Text = "No existe el usuario" + "Sistema Login";//, Response.Write.OK, MessageBoxIcon.Error);  
                 }
                 else
                 {
