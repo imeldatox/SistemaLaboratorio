@@ -12,7 +12,7 @@ namespace WebProfe
 {
     public partial class Plataforma : System.Web.UI.Page
     {
-        AccesoBD ob1 = new AccesoBD();
+       AccesoBD ob1 = new AccesoBD();
         LogNegocios ob2 = new LogNegocios();
         Agregar ob3 = new Agregar();
         SqlDataReader Lector;
@@ -473,5 +473,5 @@ namespace WebProfe
                 GridView14.DataBind();
             }
         }
-    }
+    } 
 }
